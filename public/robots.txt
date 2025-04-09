@@ -1,0 +1,7 @@
+
+    # robots.txt for סטודיו לצילום גמא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://סטודיו-לצילום-גמא.com/sitemap.xml
